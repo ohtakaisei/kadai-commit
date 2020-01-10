@@ -5,7 +5,7 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <title>おみくじファ</title>
+        <title>おみくじ</title>
     </head>
     <body>
         <h1>おみくじ</h1>
